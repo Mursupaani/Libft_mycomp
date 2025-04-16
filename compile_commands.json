@@ -1,0 +1,475 @@
+[
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_atoi.o",
+   "ft_atoi.c"
+  ],
+  "file": "ft_atoi.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_bzero.o",
+   "ft_bzero.c"
+  ],
+  "file": "ft_bzero.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_calloc.o",
+   "ft_calloc.c"
+  ],
+  "file": "ft_calloc.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_isalnum.o",
+   "ft_isalnum.c"
+  ],
+  "file": "ft_isalnum.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_isalpha.o",
+   "ft_isalpha.c"
+  ],
+  "file": "ft_isalpha.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_isascii.o",
+   "ft_isascii.c"
+  ],
+  "file": "ft_isascii.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_isdigit.o",
+   "ft_isdigit.c"
+  ],
+  "file": "ft_isdigit.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_isprint.o",
+   "ft_isprint.c"
+  ],
+  "file": "ft_isprint.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_itoa.o",
+   "ft_itoa.c"
+  ],
+  "file": "ft_itoa.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstadd_back.o",
+   "ft_lstadd_back.c"
+  ],
+  "file": "ft_lstadd_back.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstadd_front.o",
+   "ft_lstadd_front.c"
+  ],
+  "file": "ft_lstadd_front.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstclear.o",
+   "ft_lstclear.c"
+  ],
+  "file": "ft_lstclear.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstdelone.o",
+   "ft_lstdelone.c"
+  ],
+  "file": "ft_lstdelone.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstiter.o",
+   "ft_lstiter.c"
+  ],
+  "file": "ft_lstiter.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstlast.o",
+   "ft_lstlast.c"
+  ],
+  "file": "ft_lstlast.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstmap.o",
+   "ft_lstmap.c"
+  ],
+  "file": "ft_lstmap.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstnew.o",
+   "ft_lstnew.c"
+  ],
+  "file": "ft_lstnew.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_lstsize.o",
+   "ft_lstsize.c"
+  ],
+  "file": "ft_lstsize.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_memchr.o",
+   "ft_memchr.c"
+  ],
+  "file": "ft_memchr.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_memcmp.o",
+   "ft_memcmp.c"
+  ],
+  "file": "ft_memcmp.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_memcpy.o",
+   "ft_memcpy.c"
+  ],
+  "file": "ft_memcpy.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_memmove.o",
+   "ft_memmove.c"
+  ],
+  "file": "ft_memmove.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_memset.o",
+   "ft_memset.c"
+  ],
+  "file": "ft_memset.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_putchar_fd.o",
+   "ft_putchar_fd.c"
+  ],
+  "file": "ft_putchar_fd.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_putendl_fd.o",
+   "ft_putendl_fd.c"
+  ],
+  "file": "ft_putendl_fd.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_putnbr_fd.o",
+   "ft_putnbr_fd.c"
+  ],
+  "file": "ft_putnbr_fd.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_putstr_fd.o",
+   "ft_putstr_fd.c"
+  ],
+  "file": "ft_putstr_fd.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_split.o",
+   "ft_split.c"
+  ],
+  "file": "ft_split.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strchr.o",
+   "ft_strchr.c"
+  ],
+  "file": "ft_strchr.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strdup.o",
+   "ft_strdup.c"
+  ],
+  "file": "ft_strdup.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_striteri.o",
+   "ft_striteri.c"
+  ],
+  "file": "ft_striteri.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strjoin.o",
+   "ft_strjoin.c"
+  ],
+  "file": "ft_strjoin.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strlcat.o",
+   "ft_strlcat.c"
+  ],
+  "file": "ft_strlcat.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strlcpy.o",
+   "ft_strlcpy.c"
+  ],
+  "file": "ft_strlcpy.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strlen.o",
+   "ft_strlen.c"
+  ],
+  "file": "ft_strlen.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strmapi.o",
+   "ft_strmapi.c"
+  ],
+  "file": "ft_strmapi.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strncmp.o",
+   "ft_strncmp.c"
+  ],
+  "file": "ft_strncmp.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strnstr.o",
+   "ft_strnstr.c"
+  ],
+  "file": "ft_strnstr.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strrchr.o",
+   "ft_strrchr.c"
+  ],
+  "file": "ft_strrchr.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_strtrim.o",
+   "ft_strtrim.c"
+  ],
+  "file": "ft_strtrim.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_substr.o",
+   "ft_substr.c"
+  ],
+  "file": "ft_substr.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_tolower.o",
+   "ft_tolower.c"
+  ],
+  "file": "ft_tolower.c"
+ },
+ {
+  "directory": "/home/anpollan/Projects/Libft",
+  "arguments": [
+   "cc",
+   "-c",
+   "-o",
+   "ft_toupper.o",
+   "ft_toupper.c"
+  ],
+  "file": "ft_toupper.c"
+ }
+]

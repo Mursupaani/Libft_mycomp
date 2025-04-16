@@ -1,0 +1,38 @@
+GENERAL NOTES:
+1. Should I be including "libft.h" in all my functions?
+
+FUNCTION SPECIFIC NOTES:
+
+FT_MEMSET:
+1. If there's no room for the c in b the original function causes the program to crash and prints out a "trace trap". Do I need to handle this?
+2. In case of a null pointer original causes a segmentation fault.
+
+FT_BZERO:
+1. Original doesn't allow n to be larger than the length of s. If this happens it causes program to crash and prints out
+a "trace trap".
+2. Return if !s?
+
+FT_MEMCPY:
+1. Should I run only as long as i < n or should I also check if src[i] has a value?
+2. My function works the same as examples on GitHub but it seems that there is a bit of a difference with the original.
+
+FT_MEMMOVE:
+1. My solution is very different than the ones on GitHub. I'm using a buffr like explained here: https://www.youtube.com/watch?v=nFl1cNXk85s
+
+FT_STRLCPY:
+1. Error handling?
+
+FT_STRTRIM:
+1. There's a different way to do this. Maybe better?
+
+FT_SPLIT:
+1. Free array? Is it needed and correct?
+
+FT_STRNCMP:
+Check this!
+
+ATOI:
+1. Check error handling from strtol
+
+CALLOC:
+Return a unique pointer value if nmemb or size = 0

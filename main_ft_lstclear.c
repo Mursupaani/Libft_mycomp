@@ -1,0 +1,60 @@
+#include "libft.h"
+#include <unistd.h>
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+#include <strings.h>
+#include <fcntl.h>
+
+void	print_list(t_list *head);
+void	del_node_content(void *content);
+
+int	main(void)
+{
+	t_list	*head;
+	t_list	*node1;
+	char	str1[] = "Howdy ho partner!";
+	t_list	*node2;
+	char	str2[] = "Abracadabra!";
+	t_list	*node3;
+	char	str3[] = "Simsalabim!";
+
+	head = NULL;
+	node1 = ft_lstnew(str1);
+	node2 = ft_lstnew(str2);
+	node3 = ft_lstnew(str3);
+	ft_lstadd_back(&head, node1);
+	ft_lstadd_back(&head, node2);
+	ft_lstadd_back(&head, node3);
+	print_list(head);
+	ft_lstclear(&head, &del_node_content);
+	head = NULL;
+	printf("%s\n", str1);
+	printf("%p\n", node1->next);
+	printf("%s\n", str2);
+	printf("%p\n", node2->next);
+	printf("%s\n", str3);
+	printf("%p\n", node2->next);
+	return (0);
+}
+
+void	print_list(t_list *head)
+{
+	t_list	*temp;
+
+	temp = head;
+	while (temp)
+	{
+		printf("%s\n", (char *)temp->content);
+		temp = temp->next;
+	}
+}
+
+void	del_node_content(void *content)
+{
+	while (*(char *)content)
+	{
+		*(char *)content = 0;
+		content++;
+	}
+}
